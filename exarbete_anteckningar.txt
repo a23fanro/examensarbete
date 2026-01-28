@@ -1,1 +1,28 @@
-GitHub?
+* GitHub?
+JA, 
+början: bakgrund
+lösa problem
+frågeställning
+metod
+artefakt, så det går att återupprepa
+- skapa nytt repo i a23fanro-githubS
+
+
+* Momenten
+- Problemargumentation och metoddesign (2a mars)
+1.bakgrund: 4-6 sidor (skillnad playwright/selenium uppbyggnad, varför valt dem) 
+2.problemformulering + hypotes: någon sida (förankring till bakgrund)
+3.metod: antal olika metoder för att attakera problemet, diskussion om varför experiment är en bra metod att ha för detta problem
+
+- Presentatin pilotstudie och teknisk artefakt (28e April)
+
+- Komplett Rapport (25e/27e maj)
+
+- Muntlig presentation och opponering (4e-5e juni) kan vara opponering ena dagen och presentation andra, tårta sista dagen :D
+
+* Värt att kolla antal DOM-element?
+
+Tips: Be andra läsa igenom, gör stavnings-kontroller, om dataset att jobba med, finns google dataset search (i databas i biblioteket) (data.gov).
+Bilden innan man pratar om den, ska alltid refereras i texten. 
+
+knyta tid i exekvering till korrelation till mer resurser, användarperspektiv frustrerande , korrelation till minne och CPU-användning??
