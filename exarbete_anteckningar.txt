@@ -27,6 +27,16 @@ knyta tid i exekvering till korrelation till mer resurser, användarperspektiv f
 
 * Handledning nr 2:
 
+node.js, javascript, unity, 
+
 - Värt att kolla antal DOM-element?
+även en domän att jobba med, jobba med taxi-bilar, (e-handel ok, e-handel för kläder) dataset med e-handel leksaksbilar, så när sidan testar så är det rätt typ att data att testa på. hitta data som jag kan ha I min test-DOM-sida. 
+jobba med experiment: kontrollerade miljö, inte beroende på internet-leverantör, skall funka lika bra vid mätningarna, ta hem sidan så man kan testa lokalt, så det blir lika vid test, alternativt skapa sida, 
+
 - ska man låtsas välja experimentell metod?
+ja, experiment mest lämpligt såklart, varför experiment, varför inte intervjuer, mäta, låtsas utforskat Olika metoder
+
 - När skriver fakta om verktyg, ok med endast documentation av skaparna?
+vill ha med några forsknings-artiklar, inge konstigt ta det från sidan
+
+!skicka in till johan när jag har någonting!
