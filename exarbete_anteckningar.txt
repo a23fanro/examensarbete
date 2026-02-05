@@ -20,9 +20,13 @@ artefakt, så det går att återupprepa
 
 - Muntlig presentation och opponering (4e-5e juni) kan vara opponering ena dagen och presentation andra, tårta sista dagen :D
 
-* Värt att kolla antal DOM-element?
-
 Tips: Be andra läsa igenom, gör stavnings-kontroller, om dataset att jobba med, finns google dataset search (i databas i biblioteket) (data.gov).
 Bilden innan man pratar om den, ska alltid refereras i texten. 
 
 knyta tid i exekvering till korrelation till mer resurser, användarperspektiv frustrerande , korrelation till minne och CPU-användning??
+
+* Handledning nr 2:
+
+- Värt att kolla antal DOM-element?
+- ska man låtsas välja experimentell metod?
+- När skriver fakta om verktyg, ok med endast documentation av skaparna?
