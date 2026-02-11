@@ -34,9 +34,14 @@ node.js, javascript, unity,
 jobba med experiment: kontrollerade miljö, inte beroende på internet-leverantör, skall funka lika bra vid mätningarna, ta hem sidan så man kan testa lokalt, så det blir lika vid test, alternativt skapa sida, 
 
 - ska man låtsas välja experimentell metod?
-ja, experiment mest lämpligt såklart, varför experiment, varför inte intervjuer, mäta, låtsas utforskat Olika metoder
+ja, experiment mest lämpligt såklart, varför experiment, varför inte intervjuer, mäta, låtsas utforskat olika metoder
 
 - När skriver fakta om verktyg, ok med endast documentation av skaparna?
 vill ha med några forsknings-artiklar, inge konstigt ta det från sidan
 
 !skicka in till johan när jag har någonting!
+
+Handledning nr 3:
+JavaScript, ramverk, körmiljö som rubriker?
+
+
