@@ -43,5 +43,10 @@ vill ha med några forsknings-artiklar, inge konstigt ta det från sidan
 
 Handledning nr 3:
 JavaScript, ramverk, körmiljö som rubriker?
+Playwright och Selenium skillnad:
+Selenium standardiserad webDriver (klient-server), playwright ingen standard (intern server)
+Playwright automatisk (dynamisk) väntelogik, Selenium inte, måste ha i await() överallt
+Ok att jämföra dessa? eller har två mer liknande verktyg? (typ cypress ist för selenium)
+
 
 
