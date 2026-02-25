@@ -42,10 +42,9 @@ vill ha med några forsknings-artiklar, inge konstigt ta det från sidan
 !skicka in till johan när jag har någonting!
 
 Handledning nr 3:
-1. JavaScript värt att ha med? mest använd för webbappliaktioner, 
+1. JavaScript värt att ha med? mest använd för webbappliaktioner, svar: yes
 2. för att använda javascript med selenium webdriver behövs node.js, playwright är byggt med node.js i åtanke och behöver även node.js för att köra.
-Playwright och Selenium skillnad:
-Selenium standardiserad webDriver (klient-server), playwright ingen standard (intern server)
-Playwright automatisk (dynamisk) väntelogik, Selenium inte, måste ha i manuellt
+Playwright och Selenium skillnad
 
-3.Alternativt ta bort DOM-kapitlet ur arbetet, då det känns överflödigt att jämföra olika 'tunga' webbapplikationer utöver det arbete som redan är planerat.
+3.Alternativt ta bort DOM-kapitlet ur arbetet, då det känns överflödigt att jämföra olika 'tunga' webbapplikationer utöver det arbete som redan är planerat. svar: yes
+
