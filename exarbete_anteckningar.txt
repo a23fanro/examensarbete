@@ -42,11 +42,10 @@ vill ha med några forsknings-artiklar, inge konstigt ta det från sidan
 !skicka in till johan när jag har någonting!
 
 Handledning nr 3:
-JavaScript värt att ha med? mest använd för webbappliaktioner, för att använda javascript med selenium webdriver behövs node.js, playwright är byggt med node.js i åtanke och behöver även det node.js för att köra.
+1. JavaScript värt att ha med? mest använd för webbappliaktioner, 
+2. för att använda javascript med selenium webdriver behövs node.js, playwright är byggt med node.js i åtanke och behöver även node.js för att köra.
 Playwright och Selenium skillnad:
 Selenium standardiserad webDriver (klient-server), playwright ingen standard (intern server)
-Playwright automatisk (dynamisk) väntelogik, Selenium inte, måste ha i await() överallt
+Playwright automatisk (dynamisk) väntelogik, Selenium inte, måste ha i manuellt
 
-kan förbättra den manuella väntelogiken i selenium genom att sätta samma timeout som playwright (playwright har 30s by default) och använda .until, dock kommer selenium kolla efter explecita definerat elementet medan playwright dynamiska checkar om något ändrats, måste även kontrollera att selenium loopar med för att inte missa när elementet är tillgängligt (playwright gör detta dynamiskt)
-
-Alternativt ta bort DOM-kapitlet ur arbetet, då det känns överflödigt att jämföra olika 'tunga' webbapplikationer utöver det arbete som redan är planerat.
+3.Alternativt ta bort DOM-kapitlet ur arbetet, då det känns överflödigt att jämföra olika 'tunga' webbapplikationer utöver det arbete som redan är planerat.
