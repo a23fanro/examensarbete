@@ -48,3 +48,6 @@ Playwright och Selenium skillnad
 
 3.Alternativt ta bort DOM-kapitlet ur arbetet, då det känns överflödigt att jämföra olika 'tunga' webbapplikationer utöver det arbete som redan är planerat. svar: yes
 
+Handledning 4:
+Hållbar utveckling??
+Presentationer, wassup? datum? Specifikt (Pilotstudie och artefakt) med rapport presentation.
